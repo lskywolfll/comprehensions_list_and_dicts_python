@@ -1,5 +1,3 @@
-# from utils.inputs import get_input
-
 divisors = lambda num: [i for i in range(1, num + 1) if num % i == 0]
 
 def get_input(msg):
