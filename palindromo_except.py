@@ -1,4 +1,3 @@
-# from math import isnan
 from utils.inputs import get_input
 
 palindromo = lambda string: string == string[::-1]
